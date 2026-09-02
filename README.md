@@ -19,30 +19,29 @@
 
 #### AI 기술
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.​
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+* Kingma, D. P., & Ba, J. (2014). Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980. 
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
     
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.arXiv preprint arXiv:1312.6114.​
+* Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. Advances in Neural Information Processing Systems, 25, 1097–1105.
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+* Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536. https://doi.org/10.1038/323533a0
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
-    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+* Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735​
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
-    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.arXiv preprint arXiv:1312.6114.​
+* Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems, 30. https://arxiv.org/abs/1706.03762​
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+* Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 1, 4171–4186. https://doi.org/10.18653/v1/N19-1423
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+* Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). Generative adversarial nets. Advances in Neural Information Processing Systems, 27, 2672–2680. https://papers.nips.cc/paper/5423-generative-adversarial-nets
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+
+* Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). Zero-shot text-to-image generation. Proceedings of the 38th International Conference on Machine Learning, 139, 8821–8831. https://arxiv.org/abs/2102.12092
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
