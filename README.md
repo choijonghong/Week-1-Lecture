@@ -18,6 +18,30 @@
 
 
 #### AI 기술
+
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+    
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.arXiv preprint arXiv:1312.6114.​
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+    
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.arXiv preprint arXiv:1312.6114.​
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+
 * Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes.
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
