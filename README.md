@@ -1,10 +1,11 @@
 ### 인공지능과 공감능력: Artificial Intelligence and Empathy
 
-* 꼼꼼한 딥러닝 논문 리뷰와 코드 실습을 위한 저장소입니다.
-* 최신 논문 위주로, 많은 인기를 끌고 있는 다양한 딥러닝 논문을 소개합니다.
-* 질문 사항은 본 저장소의 <b>[이슈(Issues)](https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice/issues)</b> 탭에 남겨주세요.
+* 인간의 공감 능력을 뇌인지과학적, 심리학적으로 이해하고 이를 인공지능 시스템에 통합하는 방안을 탐구한다.
+* 감성컴퓨팅, BERT 및 Transformer와 같은 딥러닝 기반 자연어 처리 기술을 활용해 감정 인식과 공감 반응 생성 메커니즘을 분석한다.
+* 인간-기계 상호작용의 윤리적 쟁점을 함께 고찰함으로써, 인간 친화적인 AI 설계의 이론적·기술적 기반을 구축 한다.
 
-#### Image Recognition (이미지 인식)
+
+#### 감성컴퓨팅
 
 * End-to-End Object Detection with Transformers (ECCV 2020)
     * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
