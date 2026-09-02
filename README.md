@@ -7,9 +7,9 @@
 
 #### 감성컴퓨팅
 
-* End-to-End Object Detection with Transformers (ECCV 2020)
-    * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
-* Searching for MobileNetV3 (ICCV 2019)
+* Picard, R. W. (1995). Affective computing (Technical Report No. 321). MIT Media Laboratory, Perceptual Computing Section.
+    * [Original Paper Link](https://affect.media.mit.edu/pdfs/95.picard.pdf)
+
     * [Original Paper Link](https://arxiv.org/abs/1905.02244) / Paper Review Video / Summary PDF / Code Practice
 * Deep Residual Learning for Image Recognition (CVPR 2016)
     * [Original Paper Link](https://arxiv.org/abs/1512.03385) / [Paper Review Video](https://www.youtube.com/watch?v=671BsKl8d0E) / [Summary PDF](/lecture_notes/ResNet.pdf) / [MNIST](/code_practices/ResNet18_MNIST_Train.ipynb) / [CIFAR-10](/code_practices/ResNet18_CIFAR10_Train.ipynb) / [ImageNet](/code_practices/Pretrained_ResNet18_ImageNet_Test.ipynb)
