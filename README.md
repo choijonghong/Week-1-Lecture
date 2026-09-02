@@ -16,13 +16,13 @@
 
 #### AI 기술
 
-* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.​/[Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+* Kingma, D. P., & Welling, M. (2013). Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.​/[Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/1.%20Auto-Encoding%20Variational%20Bayes.pdf)
 
-* Kingma, D. P., & Ba, J. (2014). Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980. / [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+* Kingma, D. P., & Ba, J. (2014). Adam: A method for stochastic optimization. arXiv preprint arXiv:1412.6980. / [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/2.%20ADAM.pdf)
     
-* Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. Advances in Neural Information Processing Systems, 25, 1097–1105. / [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+* Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. Advances in Neural Information Processing Systems, 25, 1097–1105. / [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/3.%20imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)
 
-* Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536. https://doi.org/10.1038/323533a0 / [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
+* Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536. https://doi.org/10.1038/323533a0 / [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/4.%20(%EC%97%AD%EC%A0%84%ED%8C%8C)%20Learning%20representations%20by%20back-propagating%20errors%2B%EB%9F%BC%EB%A9%9C%ED%97%88%ED%8A%B8%2B%EC%A0%9C%ED%94%84%EB%A6%AC%ED%9E%8C%ED%8A%BC%2B%EC%9C%8C%EB%A6%AC%EC%95%94%EC%8A%A4.pdf)
 
 * Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural Computation, 9(8), 1735–1780. https://doi.org/10.1162/neco.1997.9.8.1735 /  [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
