@@ -8,12 +8,12 @@
 #### 감성컴퓨팅
 
 * Picard, R. W. (1995). Affective computing (Technical Report No. 321). MIT Media Laboratory, Perceptual Computing Section.
-    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/Affective%20Computing.pdf)
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf)
 
 * Wang, Y., Song, W., Tao, W., Liotta, A., Yang, D., Li, X., Gao, S., Sun, Y., Ge, W., Zhang, W., & Zhang, W. (2022). A systematic review on affective computing: Emotion models, databases, and recent advances. Information Fusion, 83–84, 19–52. 
-    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/Affective%20Computing.pdf).
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/Affective%20Computing.pdf).
 
 * Picard, R. W. (2003). Affective computing: Challenges. International Journal of Human-Computer Studies, 59(1–2), 55–64.
-    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/3.%20Affective%20computing%20challenges.pdf).
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/paper/3.%20Affective%20computing%20challenges.pdf).
 
 
