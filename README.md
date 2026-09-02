@@ -11,11 +11,10 @@
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/Affective%20Computing.pdf)
 
 * Wang, Y., Song, W., Tao, W., Liotta, A., Yang, D., Li, X., Gao, S., Sun, Y., Ge, W., Zhang, W., & Zhang, W. (2022). A systematic review on affective computing: Emotion models, databases, and recent advances. Information Fusion, 83–84, 19–52. 
-    * [Original Paper Link](https://arxiv.org/abs/2203.06935).
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/Affective%20Computing.pdf).
 
-* Picard, R. W. (2003). Affective computing: Challenges. International Journal of Human-Computer Studies, 59(1–2), 55–64. https://doi.org/10.1016/S1071-5819(03)00052-1
-    * [Original Paper Link](https://doi.org/10.1016/S1071-5819(03)00052-1).
-)
+* Picard, R. W. (2003). Affective computing: Challenges. International Journal of Human-Computer Studies, 59(1–2), 55–64.
+    * [Paper Link](https://doi.org/10.1016/S1071-5819(03)00052-1).
 
 
 
