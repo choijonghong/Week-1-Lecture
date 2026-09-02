@@ -14,7 +14,7 @@
     * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/Affective%20Computing.pdf).
 
 * Picard, R. W. (2003). Affective computing: Challenges. International Journal of Human-Computer Studies, 59(1–2), 55–64.
-    * [Paper Link](https://doi.org/10.1016/S1071-5819(03)00052-1).
+    * [Paper Link](https://github.com/choijonghong/Week-1-Lecture/blob/main/3.%20Affective%20computing%20challenges.pdf).
 
 
 
